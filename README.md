@@ -2,22 +2,23 @@
 
 ![svg-vs-gif--sprout-chart](https://user-images.githubusercontent.com/42909817/206229675-e98e6bab-0152-4cf0-844b-0e2febe21779.svg)
 
----this is Mahan MB.
+### ---this is Mahan MB.
 
 {
   "student" : "isfahan university of technology" 🎓
   
   "Programming Langs" : {"Ptyhon", "C"} 💻
   
-  "instrument" : "Piano"
+  "instrument" : "Piano"🎵
   
   "intrests": [
   
     "Anime" : {"One Piece", "Steins Gate", "Your Lie in April", "Fullmetal Alchemist", "Death Note", "Attack On Titan", "7 Deadly Sins"} 🎏  
-    "Game" : {"Fortnite", "Farcry Primal", "Overwatch", "Life is Strange"} 🎮
+    "Game" : {"Fortnite", "Farcry Primal", "Overwatch", "Life is Strange", "Elden Ring", "Dark Souls"} 🎮
     "Music" : {"Ballad No.1 Chopin", "Symphony - Clean Bandit", "I hear a symphony - Cody Fry", "Mohre Mar - Saeed Asayesh :)"} 🎵
     ...
-  ]
+  
+   ]
   
 }
 

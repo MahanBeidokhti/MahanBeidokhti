@@ -2,6 +2,7 @@
 
 ![svg-vs-gif--sprout-chart](https://user-images.githubusercontent.com/42909817/206229675-e98e6bab-0152-4cf0-844b-0e2febe21779.svg)
 
+
 ### ---this is Mahan MB.
 
 {
@@ -21,6 +22,10 @@
    ]
   
 }
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanBeidokhti&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contact Me 🔗
 [![Gmail](https://github.com/arsalanyavari/arsalanyavari/raw/main/social-media-icons/gmail.png)](mailto:mahan.beidokhti1382@gmail.com)

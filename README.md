@@ -40,7 +40,7 @@
 
 ---
 
-# Contact Me 🔗
+<!--# Contact Me 🔗
 
-<p align="center"> <a href="mailto:mahan.beidokhti1382@gmail.com" target="_blank" rel="noreferrer"> <img src="https://github.com/arsalanyavari/arsalanyavari/raw/main/social-media-icons/gmail.png" alt="Gmail" width="50" height="50"/> </a> <a href="https://t.me/LEL0UCHLAMPER0UG" target="_blank" rel="noreferrer"> <img src="https://github.com/arsalanyavari/arsalanyavari/raw/main/social-media-icons/telegram.png" alt="Gmail" width="50" height="50"/> </a> <a href="https://twitter.com/MahanMb4" target="_blank" rel="noreferrer"> <img src="https://github.com/arsalanyavari/arsalanyavari/raw/main/social-media-icons/twitter.png" alt="Gmail" width="50" height="50"/> </a></p>
+<p align="center"> <a href="mailto:mahan.beidokhti1382@gmail.com" target="_blank" rel="noreferrer"> <img src="https://github.com/arsalanyavari/arsalanyavari/raw/main/social-media-icons/gmail.png" alt="Gmail" width="50" height="50"/> </a> <a href="https://t.me/LEL0UCHLAMPER0UG" target="_blank" rel="noreferrer"> <img src="https://github.com/arsalanyavari/arsalanyavari/raw/main/social-media-icons/telegram.png" alt="Gmail" width="50" height="50"/> </a> <a href="https://twitter.com/MahanMb4" target="_blank" rel="noreferrer"> <img src="https://github.com/arsalanyavari/arsalanyavari/raw/main/social-media-icons/twitter.png" alt="Gmail" width="50" height="50"/> </a></p> -->
 <!-- [![name](https://github.com/arsalanyavari/arsalanyavari/raw/main/social-media-icons/discord.png)](Lelouch Lamperouge#2503) -->
